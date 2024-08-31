@@ -1,6 +1,3 @@
-Got it! Here's the markdown table with each title on a single line:
-
-```markdown
 | Year | Name | Author |
 |------|------|--------|
 | 1982 | Hellcat Ace | |
@@ -119,4 +116,3 @@ Got it! Here's the markdown table with each title on a single line:
 | 2003 | Lock On: Modern Air Combat | |
 | 2005 | Falcon 4.0: Allied Force | |
 | 2013 | DCS World | |
-```

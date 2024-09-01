@@ -33,7 +33,7 @@
 | 1990 | Red Baron | ||
 | 1990 | JetFighter II: Advanced Tactical Fighter | ||
 | 1990 | Knights of the Sky | ||
-| 1990 | Falcon 3.0 + Addons | ||
+| 1990 | Falcon 3.0 + Addons | leugengroot | Operation: Fighting Tiger / Hornet Naval Strike Fighter / MiG-29|
 | 1990 | LHX: Attack Chopper | ||
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | ||
 | 1991 | Gunship 2000 | SpaceGameJunkie | Philippine Islands & Antarctica Scenario Disk with mission builder|
@@ -56,7 +56,7 @@
 | 1994 | Dawn Patrol | ||
 | 1994 | 1942 Pacific Air War | ||
 | 1994 | Fleet Defender | ||
-| 1994 | U.S. Navy Fighters | ||
+| 1994 | U.S. Navy Fighters | |Marine Fighters |
 | 1994 | Pacific Strike | ||
 | 1994 | Overlord | ||
 | 1995 | EF2000 |SpaceGameJunkie |EF2000 Tactcom, Super EF2000|
@@ -73,7 +73,7 @@
 | 1996 | Hind | ||
 | 1996 | A-10 Cuba! | ||
 | 1996 | F-22 Lighting II | ||
-| 1996 | Jane’s Advanced Tactical Fighters | ||
+| 1996 | Jane’s Advanced Tactical Fighters | |NATO Fighters |
 | 1996 | Jane’s USNF’97 | ||
 | 1996 | Top Gun: Fire at Will! | ||
 | 1997 | F/A-18 Hornet 3.0 | ||
@@ -115,5 +115,10 @@
 | 2002 | Microsoft Combat Flight Simulator 3: Battle for Europe | ||
 | 2002 | Strike Fighters: Project 1 | ||
 | 2003 | Lock On: Modern Air Combat | ||
+| 2004 | Wings over Vietnam| ||
 | 2005 | Falcon 4.0: Allied Force | ||
+| 2006 | Wings over Europe: Cold War Gone Hot | ||
+| 2006 | First Eagles: The Great War 1918 | ||
+| 2008 | Wings over Israel | ||
+| 2012 | Strike Fighters 2: North Atlantic | ||
 | 2013 | DCS World | ||

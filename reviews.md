@@ -36,8 +36,7 @@
 | 1990 | Falcon 3.0 + Addons | ||
 | 1990 | LHX: Attack Chopper | ||
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | ||
-| 1991 | Gunship 2000 | SpaceGameJunkie |Philippine Islands & Antarctica Scenario Disk with mission builder
-|
+| 1991 | Gunship 2000 | SpaceGameJunkie | Philippine Islands & Antarctica Scenario Disk with mission builder|
 | 1991 | Megafortress | ||
 | 1991 | F-117 Nighthawk 2.0 | SpaceGameJunkie ||
 | 1991 | Secret Weapons of the Luftwaffe | ||

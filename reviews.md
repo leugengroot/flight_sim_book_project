@@ -66,7 +66,6 @@
 | 1995 | Navy Strike | ||
 | 1995 | Air Power: Battle in the Skies | ||
 | 1995 | Black Knight: Marine Strike Fighter | ||
-| 1995 | Mig Alley | ||
 | 1995 | Su-27 Flanker | |Su-27 Flanker Mission Disk (Flanker 1.5)|
 | 1996 | Back to Baghdad | ||
 | 1996 | Jane's Combat Simulations: AH-64D Longbow | ||
@@ -103,6 +102,7 @@
 | 1999 | Flanker 2.0 | |Flanker 2.5 free addon |
 | 1999 | F/A-18E Super Hornet (DI) | ||
 | 1999 | F-22 Lighting 3 | ||
+| 1999 | Mig Alley | ||
 | 2000 | Microsoft Combat Flight Simulator 2: WW II Pacific Theater | ||
 | 2000 | Jane's Combat Simulations: F/A-18 Simulator | ||
 | 2000 | Enemy Engaged: RAH-66 Comanche versus Ka-52 Hokum | ||

@@ -67,7 +67,7 @@
 | 1995 | Air Power: Battle in the Skies | ||
 | 1995 | Black Knight: Marine Strike Fighter | ||
 | 1995 | Mig Alley | ||
-| 1995 | Su-27 Flanker | ||
+| 1995 | Su-27 Flanker | |Su-27 Flanker Mission Disk (Flanker 1.5)|
 | 1996 | Back to Baghdad | ||
 | 1996 | Jane's Combat Simulations: AH-64D Longbow | ||
 | 1996 | Hind | ||
@@ -100,7 +100,7 @@
 | 1998 | JetFighter Full Burn | ||
 | 1998 | Team Apache | ||
 | 1999 | Jane's Combat Simulations: USAF - United States Air Force | ||
-| 1999 | Flanker 2.0 | ||
+| 1999 | Flanker 2.0 | |Flanker 2.5 free addon |
 | 1999 | F/A-18E Super Hornet (DI) | ||
 | 1999 | F-22 Lighting 3 | ||
 | 2000 | Microsoft Combat Flight Simulator 2: WW II Pacific Theater | ||
@@ -109,12 +109,12 @@
 | 2000 | JetFighter iV Fortress America | ||
 | 2000 | Rowan’s Battle of Britain | ||
 | 2000 | Ka-52 Team Alligator | ||
-| 2001 | IL-2 Sturmovik | ||
+| 2001 | IL-2 Sturmovik | |Forgotten Battles + Ace Expansion Pack / Pacific Fighters |
 | 2001 | Gunship! | ||
 | 2002 | Microsoft Combat Flight Simulator / Crimson Skies | ||
 | 2002 | Microsoft Combat Flight Simulator 3: Battle for Europe | ||
 | 2002 | Strike Fighters: Project 1 | ||
-| 2003 | Lock On: Modern Air Combat | ||
+| 2003 | Lock On: Modern Air Combat | |Flaming Cliffs|
 | 2004 | Wings over Vietnam| ||
 | 2005 | Falcon 4.0: Allied Force | ||
 | 2006 | Wings over Europe: Cold War Gone Hot | ||

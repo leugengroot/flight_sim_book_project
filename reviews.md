@@ -120,5 +120,7 @@
 | 2006 | Wings over Europe: Cold War Gone Hot | ||
 | 2006 | First Eagles: The Great War 1918 | ||
 | 2008 | Wings over Israel | ||
+| 2009 | Rise of Flight: The First Great Air War | ||
 | 2012 | Strike Fighters 2: North Atlantic | ||
 | 2013 | DCS World | ||
+| 2013 | IL-2 Sturmovik: Battle of Stalingrad  | |lots of expansions|

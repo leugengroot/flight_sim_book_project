@@ -28,6 +28,10 @@ With the F/A-18 Hornet and the Balkans, Falcon receives a new aircraft and a com
 #### Avenger A-10 (not released)
 After the F-16, the A-10 was supposed to be the second aircraft in the “Electronic Battlefield Series” with Avenger. However, since the A-10 operates much closer to the ground compared to the F-16, there were significant issues with rendering the landscape using the hardware available at the time. Today, only a few screenshots and the design of the packaging cover have been preserved.
 
+### 3rd party tools and addons
+Even in the time when the internet was not yet mainstream, Falcon fans already found ways and means to exchange ideas and distribute self-developed tools and add-ons.
+With FALCONER, pilots could change details, replenish weapons in campaigns, and print everything on paper for squadron administration. F3MAPS enabled Red Flag missions to be flown not only in Nevada but in all scenarios. FALCCALC analyzes the files of an ongoing campaign and provides tips for missions.
+
 ## Quotes and Triva
 * "Falcon 3.0 is not for the faint of heart, weak of system arcade gamer. Its very design boldly says, 'This is the future of flight simulation, keep up or shut up!' - Doug Fick, Computer Gaming World, April 1992 -
 * In old promotional material, “Operation Fighting Tiger” was still referred to as “Operation Flying Tiger” and mentioned the Philippines as the new area of operation

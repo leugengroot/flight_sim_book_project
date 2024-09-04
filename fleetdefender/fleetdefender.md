@@ -2,7 +2,7 @@
 ## Review
 ### Fleet Defender
 
-Fleet Defender develoded and released by Microprose for PC market in 1994 was the first true attempt at creating serious representation of F-14 Tomcat in a computer game. As with F-15 Strike Eagle 3 released two years prior, the subject matter experts (SMEs) were utilized while developing the new game.
+Fleet Defender developed and released by Microprose for PC market in 1994 was the first true attempt at creating serious representation of F-14 Tomcat in a computer game. As with F-15 Strike Eagle 3 released two years prior, the subject matter experts (SMEs) were utilized while developing the new game.
 
 Built on improved engine used in Microprose's previous flight sims, Fleet Defender looked phenomenal - with moody textured sky, varied time of day and weather, 3d rolling terrain which was also fully textured, the game needed a fast 486DX CPU running at at least 40MHz at the time. Player's aircraft was meticolously crafted with really detailed 3d mesh and fully textured - each squadron had their own insignia! Other aircraft had simpler 3d models, but were still fully textured. Another object that had to retain high detail was obviously the carrier - your home amidst the cold ocean. There were 3 variants of the carrier you could select in the difficulty option - Forrestal class, Kitty Hawk class and the biggest - Nimitz class.
 

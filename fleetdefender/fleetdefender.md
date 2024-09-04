@@ -35,6 +35,8 @@ This CD release combined the base game with the Scenario expansion and added mul
 * Ship Upgrade Pack - improved textures and models for several US and Soviet vessels
 * Aircraft Upgrade Teaser - improved 3d mesh and textures for F-16, F-4, MiG-21 and B-52.
 * Ocean Upgreade - new water texture and disabled the "treadmill" effect
+  
+PixelWing's webpage:
 https://pixelwings.org/military/fleetdefender/fdmods/fdmods.htm
 
 ## Quotes and Triva

@@ -104,6 +104,7 @@
 | 1999 | F-22 Lighting 3 | |||
 | 1999 | Mig Alley | |||
 | 2000 | Microsoft Combat Flight Simulator 2: WW II Pacific Theater | |||
+| 2000 | Crimson Skies | |||
 | 2000 | Jane's Combat Simulations: F/A-18 Simulator | |||
 | 2000 | Enemy Engaged: RAH-66 Comanche versus Ka-52 Hokum | |||
 | 2000 | JetFighter iV Fortress America | |||
@@ -111,7 +112,6 @@
 | 2000 | Ka-52 Team Alligator | |||
 | 2001 | IL-2 Sturmovik |Forgotten Battles + Ace Expansion Pack / Pacific Fighters | ||
 | 2001 | Gunship! | |||
-| 2002 | Microsoft Combat Flight Simulator / Crimson Skies | |||
 | 2002 | Microsoft Combat Flight Simulator 3: Battle for Europe | |||
 | 2002 | Strike Fighters: Project 1 | |||
 | 2003 | Lock On: Modern Air Combat |Flaming Cliffs |||

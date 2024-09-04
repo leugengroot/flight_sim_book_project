@@ -22,7 +22,7 @@ All of this sounds great, but are there any shortcomings? To be honest, not many
 
 ### Addons / Patches
 #### 1.2 Patch
-Fixed numerous bugs of the initial 1.0 release. Most notably - heading drift, padlock jitters, disappearing missiles and much more. Interestingly in the initial version of the game when you started your mission you had your radar and master arm turned off, which was pretty realistic, you had to activate them manually, which was usually done after take off / after fenced-in. In 2.0 version both radar and master arm were already activated possibily to not confuse players why their sensors and weapons doesn't work.
+Fixed numerous bugs of the initial 1.0 release. Most notably - heading drift, padlock jitters, disappearing missiles and much more. Interestingly in the initial version of the game when you started your mission you had your radar and master arm turned off, which was pretty realistic, you had to activate them manually, which was usually done after take off / after fenced-in. In 2.0 version both radar and master arm were already activated to not confuse players why their sensors and weapons don't work.
 
 #### Fleet Defender: Scenario
 This expansion for Fleet Defender updates the game to 2.0 version with more bug fixes (fix for faster machines), adds the Indian Ocean and Korean Peninsula maps with six campaigns, US Pacific Fleet F-14 squadrons and a mission builder. The mission builder was a powerful tool - the same that the developers used for creating the missions in the game.

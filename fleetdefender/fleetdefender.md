@@ -2,7 +2,7 @@
 ## Review
 ### Fleet Defender
 
-Fleet Defender was the first true attempt at creating serious representation of F-14 Tomcat in a computer game. As with F-15 Strike Eagle 3 released two years prior, the subject matter experts (SMEs) were utilized while developing the new game.
+Fleet Defender develoded and released by Microprose for PC market in 1994 was the first true attempt at creating serious representation of F-14 Tomcat in a computer game. As with F-15 Strike Eagle 3 released two years prior, the subject matter experts (SMEs) were utilized while developing the new game.
 
 Built on improved engine used in Microprose's previous flight sims, Fleet Defender looked phenomenal - with moody textured sky, varied time of day and weather, 3d rolling terrain which was also fully textured, the game needed a fast 486DX CPU running at at least 40MHz at the time. Player's aircraft was meticolously crafted with really detailed 3d mesh and fully textured - each squadron had their own insignia! Other aircraft had simpler 3d models, but were still fully textured. Another object that had to retain high detail was obviously the carrier - your home amidst the cold ocean. There were 3 variants of the carrier you could select in the difficulty option - Forrestal class, Kitty Hawk class and the biggest - Nimitz class.
 
@@ -30,19 +30,19 @@ This expansion for Fleet Defender updates the game to 2.0 version with more bug 
 #### Fleet Defender Gold
 This CD release combined the base game with the Scenario expansion and added multimedia presentations, which includes interactive tutorials explaining every aspect of the F-14 Tomcat, several communication and video recordings of actual aerial confrontations, a glossary, and Aviation Week's "Flight Deck" video documentary which showcases operations aboard naval carriers (also included are six "teaser" promos of other Aviation Week videos).
 
+### 3rd party tools and addons
+30 years after the game release PixelWings created few mods for Fleet Defender: 
+* Ship Upgrade Pack - improved textures and models for several US and Soviet vessels
+* Aircraft Upgrade Teaser - improved 3d mesh and textures for F-16, F-4, MiG-21 and B-52.
+* Ocean Upgreade - new water texture and disabled the "treadmill" effect
+https://pixelwings.org/military/fleetdefender/fdmods/fdmods.htm
+
 ## Quotes and Triva
-* PC Gamer praised the game for its graphics and sound, flexibility in setting the realism options making the game as easy or hard as you liked. Giving it over score of 88%.
+* PC Gamer praised the game for its graphics and sound, flexibility in setting the realism options making the game as easy or hard as you liked. Giving it overall score of 88%.
 
 * Computer Gaming World similarly stated that you can tailor it to the casual or hard-core gamer, and that it's more of a tactical flight sim where you spend more time in the back seat than dogfighting. They praised the quality and AI, but were dissapinted by the lack of modem options. Summing it up "... even as a solo flight, Fleet Defender is an outstanding simulator that will serve to reestablish MicroProse as a major player in the flight sim wars."
 
 * There are some silly Easter Eggs in the form of curious objects you can find flying during your training and campaign sorties, like dragons, UFOs, lost Avenger flight (Flight 19) and Bill Stealey's T-28 Trojan
 
 ## Screenshots
-* Title Screen
-* pilot cockpit (maybe combine the top and bottom views)
-* RIO cockpit (maybe combine the top and bottom views)
-* external view of the Tomcat
-* external view of the carrier
-* arming view
-* map view (from the briefing or from the editor)
-* multimedia tutorials
+See screenshots/index.md for screenshot list and caption proposals

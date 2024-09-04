@@ -55,7 +55,7 @@
 | 1993 | Reach for the Skies | |||
 | 1994 | Dawn Patrol | |||
 | 1994 | 1942 Pacific Air War | |||
-| 1994 | Fleet Defender | |damson|Draft|
+| 1994 | Fleet Defender | Scenario / Gold |damson|Draft|
 | 1994 | U.S. Navy Fighters |Marine Fighters | ||
 | 1994 | Pacific Strike | |||
 | 1994 | Overlord | |||

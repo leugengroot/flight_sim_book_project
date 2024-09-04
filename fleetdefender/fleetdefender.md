@@ -18,7 +18,7 @@ So how is the combat - well, since F-14 role was mainly Fleet Defense (at that t
 
 The last aspect I would like to touch upon was the wingman control. In each combat mission you were a part of a 2-ship. You were always the lead. The key to success was to efficiently use your wingman - he or she always carried the same missile load as you, so even when faced with superior numbers you could still reign hell with 12 Phoenix missiles, assuming you selected the "Fleet Defense BRAVO" loadout with 6 AIM-54s. In close quarters your wingman could watch your six, or you could send him/her to sanitize a specific area to widen your search.
 
-All of this sounds great, but are there any shortcomings? To be honest, not many. The only thing I would add would be aerial refueling. It is a significant part of naval aviation and it's unfortunate it wasn't implemented. Also the lack of multiplayer features was a let down. Other than that, personally I consider the Fleet Defender as the best depiction of F-14 Tomcat in a flight sim, until Heatblur released their F-14 for DCS.
+All of this sounds great, but are there any shortcomings? To be honest, not many. The only thing I would add would be aerial refueling. It is a significant part of naval aviation and it's unfortunate it wasn't implemented. Also the lack of multiplayer features was a let down. Other than that, personally I consider the Fleet Defender as the best depiction of F-14 Tomcat in a flight sim, surpassed only by Heatblur's F-14 for DCS, but only in flight and systems modelling as the overall "atmosphere" in DCS World is still a bit lacking.
 
 ### Addons / Patches
 #### 1.2 Patch

@@ -15,7 +15,7 @@ Graphic wise, there are no differences in the depiction of the enemy aircraft.
 
 The cockpit displays basic information such as altitude, speed, direction, remaining gun ammunition, and thrust settings. The view from the cockpit shows only a horizon line, with the sky above and water below. 
 The actual flight model is very basic but not to bad, considering we are dealing with 8-bit systems from 1982. The combination of thrust and joystick input provides a surprisingly good flight experience. Even features like stall were considered.
-In a later version from 1985, the graphics were improved so that you could now see the frame of the cockpit and the standard font of the C64 was no longer used.
+In a later version from 1984, the graphics were improved so that you could now see the frame of the cockpit and the standard font of the C64 was no longer used.
 
 The goal of the game is to win each of the 14 missions (in various difficulty levels) and shoot down at least five enemy planes to achieve “Ace” status. If a mission doesn’t go well, you can bail out with a parachute or try to ditch your plane in the water. Either you’ll be picked up by a friendly submarine or, in the worst case, end up as a prisoner of war.
 

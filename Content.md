@@ -15,4 +15,4 @@
 ##### User Made Campaigns - CombatACE
 #### EECH Central https://eechcentral.simhq.com/
 #### F-22 TAW 2.30 + EF 2000 Reloaded The Story of Total Air War (krishty.com)
-### Future of Combat Flightsims (Tiny Combat Arena, Helicopter Gunship DEX, Nuclear Option etc.)
+### Future of Combat Flightsims (Tiny Combat Arena, Thunder Helix, Helicopter Gunship DEX, Nuclear Option etc.)

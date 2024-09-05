@@ -24,6 +24,6 @@
 | fd_squadron_management.png | Before starting a campaign you need to select your squadron |
 | fd_trap.png | After completing your mission the hardest part of naval aviation awaited you - carrier landing. Each one was scored by the LSO and was logged in your mission log for better or worse |
 | fd_wingman_fox3.png | Utilizing your wingman was a key to success, here "Odin" is firing his Phoenix at the bandit I designated for him |
-| fs_briefing_arming.png | You had to choose wisely when selecting your loadout. Taking full load of AIM-54 would increase your drag significantly, minimizing your speed and increasing fuel consumption |
-| fs_briefing_map.png | You could check the position of friendly units on the map before as well as during your mission |
-| fs_prepare_to_launch.png | Prepare To Launch...! |
+| fd_briefing_arming.png | You had to choose wisely when selecting your loadout. Taking full load of AIM-54 would increase your drag significantly, minimizing your speed and increasing fuel consumption |
+| fd_briefing_map.png | You could check the position of friendly units on the map before as well as during your mission |
+| fd_prepare_to_launch.png | Prepare To Launch...! |

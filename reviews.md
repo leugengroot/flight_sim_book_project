@@ -1,10 +1,10 @@
 | Year | Name | Addons | Author | Status 
 |------|------|--------|--------|--------|
-| 1982 | Hellcat Ace | |leugengroot||
-| 1982 | Spitfire Ace | |||
-| 1983 | MiG Alley Ace | |||
+| 1982 | Hellcat Ace | |leugengroot|draft|
+| 1982 | Spitfire Ace | |leugengroot||
+| 1983 | MiG Alley Ace | |leugengroot||
 | 1983 | Fighter Pilot | |||
-| 1984 | F-15 Strike Eagle | |||
+| 1984 | F-15 Strike Eagle | |leugengroot||
 | 1985 | Jet | |||
 | 1985 | Tomahawk | |||
 | 1985 | ACE: Air Combat Emulator | |||
@@ -15,7 +15,7 @@
 | 1987 | Harrier Combat Simulator | |||
 | 1987 | Jet: Version 2.0 | |||
 | 1987 | Falcon | |||
-| 1988 | F/A-18 Interceptor | |||
+| 1988 | F/A-18 Interceptor | |damson||
 | 1988 | F-19 Stealth Fighter | |SpaceGameJunkie||
 | 1988 | JetFighter: The Adventure | |||
 | 1988 | Falcon A.T. | |||
@@ -56,7 +56,7 @@
 | 1994 | Dawn Patrol | |||
 | 1994 | 1942 Pacific Air War | |||
 | 1994 | Fleet Defender | Scenario / Gold |damson|Draft|
-| 1994 | U.S. Navy Fighters |Marine Fighters | ||
+| 1994 | U.S. Navy Fighters |Marine Fighters |damson||
 | 1994 | Pacific Strike | |||
 | 1994 | Overlord | |||
 | 1995 | EF2000 |EF2000 Tactcom, Super EF2000 |SpaceGameJunkie||
@@ -73,8 +73,8 @@
 | 1996 | A-10 Cuba! | |||
 | 1996 | F-22 Lighting II | |||
 | 1996 | Jane’s Advanced Tactical Fighters |NATO Fighters | ||
-| 1996 | Jane’s USNF’97 | |||
-| 1996 | Top Gun: Fire at Will! | |||
+| 1996 | Jane’s USNF’97 | |damson||
+| 1996 | Top Gun: Fire at Will! | |damson||
 | 1997 | F/A-18 Hornet 3.0 | |||
 | 1997 | F/A-18 Hornet Korea | |||
 | 1997 | Joint Strike Fighter | |||
@@ -84,7 +84,7 @@
 | 1997 | Janes Fighter Anthology | |||
 | 1997 | iF-16 | |||
 | 1997 | F-22 Raptor | |||
-| 1997 | JetFighter III | |||
+| 1997 | JetFighter III |Enhaced Campaign CD / Classic |||
 | 1997 | Flying Corps | |||
 | 1998 | Microsoft Combat Flight Simulator: WWII Europe Series | |||
 | 1998 | Jane's Combat Simulations: IAF - Israeli Air Force | |||

@@ -19,5 +19,6 @@ Initially released for the 8-bit systems of Atari in 1982, a version for the Com
 In an updated version for the Atari and Commodore from 1984, the graphics were improved so that you could now see the frame of the cockpit and the standard font of the C64 was no longer used. 
 
 The goal of the game is to win each of the 14 missions (in various difficulty levels) and shoot down at least five enemy planes to achieve “Ace” status. If a mission doesn’t go well, you can bail out with a parachute or try to ditch your plane in the water. Either you’ll be picked up by a friendly submarine or, in the worst case, end up as a prisoner of war.
+All combat is air-to-air only. No bombing, no support for the ground or what so ever.
 
 For a debut product from a young company, Hellcat Ace was and still is a game MicroProse can be proud of. The Atari Antic magazine praised Hellcat Ace at the time: “While the graphics could be improved, the playability of the game is not harmed by this, and I recommend it to those of you with dreams of glory and the big blue yonder.”

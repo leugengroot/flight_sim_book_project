@@ -124,3 +124,4 @@
 | 2012 | Strike Fighters 2: North Atlantic | |||
 | 2013 | DCS World | |||
 | 2013 | IL-2 Sturmovik: Battle of Stalingrad  |lots of expansions |||
+| 2017 | VTOL VR  |AH-94 Attack Helicopter, T-55 Tyro - Trainer Jet, EF-24 Mischief - Electronic Warfare |||

@@ -49,7 +49,7 @@
 | 1993 | T.F.X. | |||
 | 1993 | Aces over Europe | |||
 | 1993 | Air Duel: 80 Years of Dogfighting | |||
-| 1993 | Tornado | |||
+| 1993 | Tornado | Desert Storm |trevorr610||
 | 1993 | Strike Commander | |||
 | 1993 | Combat Air Patrol | |||
 | 1993 | Reach for the Skies | |||
@@ -67,7 +67,7 @@
 | 1995 | Air Power: Battle in the Skies | |||
 | 1995 | Black Knight: Marine Strike Fighter | |||
 | 1995 | Su-27 Flanker |Su-27 Flanker Mission Disk (Flanker 1.5) |||
-| 1996 | Back to Baghdad | |||
+| 1996 | Back to Baghdad | |trevorr610||
 | 1996 | Jane's Combat Simulations: AH-64D Longbow |Flashpoint Korea |||
 | 1996 | Hind | |||
 | 1996 | A-10 Cuba! | |||

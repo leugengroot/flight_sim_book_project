@@ -1,13 +1,9 @@
 # MiG Alley Ace
-"MiG Alley" war ein ca. 150 km langer Landstrich im Nordwesten Koreas, der sich entlang des Yalu Flusses an der koreanisch/chinesischen Grenze lang zog.
-Das Gebiet war Schauplatz zahlloser Dogfights zwischen US-Maschinen vom Typ F-86 Sabre und nordkoreanischen MiG-15.
+“MiG Alley” was a roughly 150 km long strip of land in northwestern Korea, stretching along the Yalu River at the Korean/Chinese border. The area was the scene of countless dogfights between US F-86 Sabre aircraft and North Korean MiG-15s.
 
+MiG-Alley Ace seamlessly follows its predecessors Hellcat Ace and Spitfire Ace. Developed by Andy Hollis, the game puts the player in the role of a combat pilot during the Korean War, fighting against enemy MiG-15 jets in the infamous “MiG Alley.” A series of missions, all with a historical background, are available.
 
-MiG-Alley Ace knüpft nahtlos an seine beiden Vorgänger Hellcat- und Spitfire Ace an. Entwickelt von Andy Hollis, versetzt das Spiel den Spieler in die Rolle eines Kampfpiloten während des Koreakriegs, der in der berüchtigten “MiG Alley” gegen feindliche MiG-15 Jets antritt.
-Wieder stehen eine Reihe von Missionen bereit, die alle einen historischen Hintergrund haben.
+The biggest innovation is the multiplayer component. Pilots can now choose to fight alone, together against the computer, or head-to-head against each other. Up to four aircraft can be in the air at any one time.
 
-Die größte Neuerung ist die Multiplayer Komponente. Wahlweise können Piloten nun alleine, gemeinsam gegen den Computer oder Head-to-Head gegeneinander kämpfen. Insgesamt können dabei jeweils immer bis zu vier Flugzeuge in der Luft sein. 
-Entwickelt von Andy Hollis, versetzt das Spiel die Spieler in die Rolle eines Kampfpiloten während des Koreakriegs, der in der berüchtigten “MiG Alley” gegen feindliche MiG-15-Jets antritt1.
-
-Das Spiel bietet eine Split-Screen-Ansicht, die es zwei Spielern ermöglicht, gleichzeitig gegeneinander anzutreten. Diese Funktion war seinerzeit besonders innovativ für die damalige Zeit und trug zur Popularität des Spiels bei
+The game offers a split-screen view, allowing two players to compete against each other simultaneously. This feature was particularly innovative for its time and contributed to the game’s popularity.
 

@@ -56,7 +56,7 @@
 | 1994 | Dawn Patrol | |||
 | 1994 | 1942 Pacific Air War | |||
 | 1994 | Fleet Defender | Scenario / Gold |damson|Draft|
-| 1994 | U.S. Navy Fighters |Marine Fighters |damson||
+| 1994 | U.S. Navy Fighters |Marine Fighters |damson|Draft|
 | 1994 | Pacific Strike | |||
 | 1994 | Overlord | |||
 | 1995 | EF2000 |EF2000 Tactcom, Super EF2000 |SpaceGameJunkie||

@@ -3,8 +3,8 @@
 | 1982 | Hellcat Ace | |leugengroot|draft|
 | 1982 | Spitfire Ace | |leugengroot|draft|
 | 1983 | MiG Alley Ace | |leugengroot|draft|
-| 1983 | Fighter Pilot | |||
-| 1984 | F-15 Strike Eagle | |leugengroot||
+| 1983 | Fighter Pilot | ||leugengroot|
+| 1984 | F-15 Strike Eagle | |leugengroot|draft|
 | 1985 | Jet | |||
 | 1985 | Tomahawk | |||
 | 1985 | ACE: Air Combat Emulator | |||

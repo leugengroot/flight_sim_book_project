@@ -28,3 +28,10 @@
 |usnf_ps_1_intro.png|Playstation version of US Navy Fighters had different intro|
 |usnf_ps_2_pilot_select.png|Pilot selectoin in PS version - you could see familiar faces|
 |usnf_ps_3_cockpit.png|PS version lacked the cockpit art, HUD only was the the sole internal view option|
+|usnf_sc_a10.png|A-10 3d model comparison between USNF and Strike Commander|
+|usnf_sc_e3.png|E-3 3d model comparison between USNF and Strike Commander|
+|usnf_sc_f15.png|F-15 3d model comparison between USNF and Strike Commander|
+|usnf_sc_f18.png|F/A-18 3d model comparison between USNF and Strike Commander|
+|usnf_sc_f22.png|F-22 3d model comparison between USNF and Strike Commander|
+|usnf_sc_tu95.png|Tu-95 3d model comparison between USNF and Strike Commander|
+

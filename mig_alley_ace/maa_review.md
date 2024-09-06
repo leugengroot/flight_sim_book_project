@@ -7,9 +7,7 @@ MiG-Alley Ace knüpft nahtlos an seine beiden Vorgänger Hellcat- und Spitfire A
 Wieder stehen eine Reihe von Missionen bereit, die alle einen historischen Hintergrund haben.
 
 Die größte Neuerung ist die Multiplayer Komponente. Wahlweise können Piloten nun alleine, gemeinsam gegen den Computer oder Head-to-Head gegeneinander kämpfen. Insgesamt können dabei jeweils immer bis zu vier Flugzeuge in der Luft sein. 
-MiG Alley AceMiG Alley Ace
-Erkunden
-MiG Alley Ace ist ein Kampf-Flugsimulationsspiel, das 1984 von MicroProse für den Commodore 64 veröffentlicht wurde. Entwickelt von Andy Hollis, versetzt das Spiel die Spieler in die Rolle eines Kampfpiloten während des Koreakriegs, der in der berüchtigten “MiG Alley” gegen feindliche MiG-15-Jets antritt1.
+Entwickelt von Andy Hollis, versetzt das Spiel die Spieler in die Rolle eines Kampfpiloten während des Koreakriegs, der in der berüchtigten “MiG Alley” gegen feindliche MiG-15-Jets antritt1.
 
 Das Spiel bietet eine Split-Screen-Ansicht, die es zwei Spielern ermöglicht, gleichzeitig gegeneinander anzutreten. Diese Funktion war seinerzeit besonders innovativ für die damalige Zeit und trug zur Popularität des Spiels bei
 

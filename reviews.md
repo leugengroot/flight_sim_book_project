@@ -67,7 +67,7 @@
 | 1995 | Air Power: Battle in the Skies | |||
 | 1995 | Black Knight: Marine Strike Fighter | |||
 | 1995 | Su-27 Flanker |Su-27 Flanker Mission Disk (Flanker 1.5) |||
-| 1996 | Back to Baghdad | |trevorr610||
+| 1996 | Back to Baghdad | |trevorr610|draft|
 | 1996 | Jane's Combat Simulations: AH-64D Longbow |Flashpoint Korea |||
 | 1996 | Hind | |||
 | 1996 | A-10 Cuba! | |||

@@ -6,7 +6,7 @@
 | 1983 | Fighter Pilot | |leugengroot||
 | 1984 | F-15 Strike Eagle | |leugengroot|draft|
 | 1985 | Jet | |||
-| 1985 | Tomahawk | |||
+| 1985 | Tomahawk | |leugengroot||
 | 1985 | ACE: Air Combat Emulator | |||
 | 1986 | Gunship | |leugengroot||
 | 1986 | Ace of Aces | |||

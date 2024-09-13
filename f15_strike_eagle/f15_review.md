@@ -14,20 +14,17 @@ When F-15 Strike Eagle was released in 1985, it represented a significant leap f
 Cockpit View: 
 The game featured a detailed cockpit view with various instruments and a heads-up display (HUD). This was a step up from the more abstract representations in earlier games.
 
-Terrain and Environments: 
-While still relatively simple by today’s standards, the terrain in F-15 Strike Eagle was more detailed and varied. Players could distinguish between different types of terrain, such as deserts and oceans.
+While still relatively simple by today’s standards, the terrain in F-15 Strike Eagle was more detailed and varied. Players could distinguish between different types of terrain, such as deserts and oceans. Enemy aircraft were no longer represented with sprites but with vector graphics. However, ground targets were merely symbolized as a large triangle on the ground.
 
-Enemy Models: The enemy aircraft and ground targets were more detailed and recognizable compared to the basic sprite based shapes used in earlier titles. 
-
-Color Usage: 
 The game made better use of the limited color palettes available on early home computers. This resulted in more visually appealing and varied environments.
 
-Copy Protection:
-For the first time in an MP title, a copy protection function is being used. The 36-page manual contains 15 numerical codes, each associated with a letter. At the start of a mission, one of the “secret F-15 Authorization Codes” is requested. If the wrong code is entered, important aircraft systems will not be available during the game.
+For the first time in a MicroProse title, a copy protection system was used. The 36-page manual contains 15 numerical codes, each associated with a letter. At the start of a mission, one of the “secret F-15 Authorization Codes” was requested. If the wrong code was entered, important aircraft systems were not available during the game.
 
-F-15 wurde auf eine große Bandbreite an Systeme portiert (C64, Atari, MSX, DOS, PC-88/98, Amstrad CPC, Atari ST, Apple II, ZX Spectrum). At the beginning of the 90s versions for Game Gear and the NES were published. Even a version for the handheld Gameboy was released.
+F-15 was ported to a wide range of systems (C64, Atari, MSX, DOS, PC-88/98, Amstrad CPC, Atari ST, Apple II, ZX Spectrum). At the beginning of the 90s versions for Game Gear and the NES were published. Even a version for the handheld Gameboy was released.
 
 In 1991, MicroProse attempted to bring F-15 Strike Eagle to the arcade market. The arcade version featured enhanced graphics and sound, thanks to the more powerful hardware available in arcade cabinets. However, despite these improvements, the arcade version failed to capture the same level of success as its home computer counterparts.
+
+Also worth mentioning is the manual that comes in the box. While an eight-page booklet suffices for Hellcat Ace, F-15 Strike Eagle already boasts a substantial 40 pages manual. Besides the operation of the computer simulation, the manual also offers a wealth of background information for the first time. From the theory of flying, basics of air combat, detailed information on the weapons used, enemy forces, and a description of the mission scenarios, the manual provides a good overview of the simulation topic. Even today, many decades after its release, one still enjoys picking up the manual and browsing through it.
 
 ## Trivia
 * The Unsuccessful Arcade Machine

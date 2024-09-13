@@ -8,6 +8,9 @@
 | 1985 | Jet | |||
 | 1985 | Tomahawk | |leugengroot||
 | 1985 | ACE: Air Combat Emulator | |||
+| 1985 | Jump Jet (Anco) | |||
+| 1985 | Strike Force Harrier | |||
+| 1985 | Spitfire 40 | |||
 | 1986 | Gunship | |leugengroot||
 | 1986 | Ace of Aces | |||
 | 1987 | Project Steal Fighter | |||

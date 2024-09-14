@@ -26,7 +26,9 @@ In 1991, MicroProse attempted to bring F-15 Strike Eagle to the arcade market. T
 
 Also worth mentioning is the manual that comes in the box. While an eight-page booklet suffices for Hellcat Ace, F-15 Strike Eagle already boasts a substantial 40 pages manual. Besides the operation of the computer simulation, the manual also offers a wealth of background information for the first time. From the theory of flying, basics of air combat, detailed information on the weapons used, enemy forces, and a description of the mission scenarios, the manual provides a good overview of the simulation topic. Even today, many decades after its release, one still enjoys picking up the manual and browsing through it.
 
-## Trivia
+## Trivia / Quotes
 * The Unsuccessful Arcade Machine
 	
 * the first edition of the manual forgot to mention on how to land the plane (fly slowly under 1000ft over your Homebase)
+* "Compare F-15 STRIKE EAGLE versus our famous competitors,
+better known for their fancy hangar graphics. If you want a slow sightseeing hangar queen, buy theirs! - Bill Stealey in a F-15 SE ad 

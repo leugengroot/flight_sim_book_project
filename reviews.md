@@ -15,6 +15,7 @@
 | 1986 | Gunship | |leugengroot|draft|
 | 1986 | Ace of Aces | |||
 | 1987 | Project Stealth Fighter | |||
+| 1987 | Twin Tornado | |||
 | 1987 | ACE 2 | |||
 | 1987 | Harrier Combat Simulator | |||
 | 1987 | Jet: Version 2.0 | |||

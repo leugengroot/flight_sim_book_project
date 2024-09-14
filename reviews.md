@@ -7,6 +7,7 @@
 | 1984 | F-15 Strike Eagle | |leugengroot|draft|
 | 1985 | Jet | |||
 | 1985 | Tomahawk | |leugengroot||
+| 1985 | The Dam Busters | |||
 | 1985 | ACE: Air Combat Emulator | |||
 | 1985 | Jump Jet (Anco) | |||
 | 1985 | Strike Force Harrier | |||

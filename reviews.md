@@ -17,6 +17,7 @@
 | 1987 | Project Stealth Fighter | |||
 | 1987 | Twin Tornado | |||
 | 1987 | ACE 2 | |||
+| 1987 | Night Raider | |||
 | 1987 | Harrier Combat Simulator | |||
 | 1987 | Jet: Version 2.0 | |||
 | 1987 | Falcon | |||

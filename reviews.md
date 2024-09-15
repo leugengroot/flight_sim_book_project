@@ -24,6 +24,7 @@
 | 1988 | F/A-18 Interceptor | |damson||
 | 1988 | F-19 Stealth Fighter | |SpaceGameJunkie||
 | 1988 | JetFighter: The Adventure | |||
+| 1988 | ATF: Advanced Tactical Fighter | |||
 | 1988 | Falcon A.T. | |||
 | 1988 | Battlehawks 1942 | |||
 | 1988 | Stealth Mission (subLogic) | |||

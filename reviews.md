@@ -73,11 +73,11 @@
 | 1995 | Navy Strike | |||
 | 1995 | Air Power: Battle in the Skies | |||
 | 1995 | Black Knight: Marine Strike Fighter | |||
-| 1995 | Su-27 Flanker |Su-27 Flanker Mission Disk (Flanker 1.5) |||
+| 1995 | Su-27 Flanker |Su-27 Flanker Mission Disk (Flanker 1.5) |trevorr610||
 | 1996 | Back to Baghdad | |trevorr610|draft|
 | 1996 | Jane's Combat Simulations: AH-64D Longbow |Flashpoint Korea |||
 | 1996 | Hind | |||
-| 1996 | A-10 Cuba! | |||
+| 1996 | A-10 Cuba! | |trevorr610||
 | 1996 | F-22 Lighting II | |||
 | 1996 | Jane’s Advanced Tactical Fighters |NATO Fighters | ||
 | 1996 | Jane’s USNF’97 | |damson||
@@ -106,7 +106,7 @@
 | 1998 | JetFighter Full Burn | |||
 | 1998 | Team Apache | |||
 | 1999 | Jane's Combat Simulations: USAF - United States Air Force | |||
-| 1999 | Flanker 2.0 |Flanker 2.5 free addon | ||
+| 1999 | Flanker 2.0 |Flanker 2.5 free addon | trevorr610||
 | 1999 | F/A-18E Super Hornet (DI) | |||
 | 1999 | F-22 Lighting 3 | |||
 | 1999 | Mig Alley | |||

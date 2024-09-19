@@ -11,10 +11,11 @@ The flight model was questionable - most notably the way it models turning is no
 
 A lot of time was spent in the sound department. While the base effects were created by Dave Warhol, to minimize the potential of irritation of the repetitive engine noise for example, Bob Dinnerman altered the base engine sound parameters (pitch, rumble and volume) with the throttle and stick actions. It added another layer of feedback for the player on how the aircraft 'felt'. Bob in his interview also confessed that the avionics tonal effects were derived from the Top Gun film. And you can tell, in fact the game's music theme was clearly inspired by the Top Gun Anthem - though to hear it you need that 512 KB memory expansion fitted in your Amiga 500. It's not an exaggeration to say the soundscape is holding up really well even today - 36 years after original release!
 
-## Trivia
-* During the last mission you could land on the enemy carrier/sub to re-arm and re-fuel, take off and continue your mission
-* As long as your gear was down and your vertical speed was low enough - your landing was deemed successful, even if your orientation was upside down - the lack of the check of your orientation in the code continued later into later Bob Dinnerman's games in the series - up to Jet Fighter IV released in 2000
-* The game featured external views of the aircraft (10 angles) as well as tower view, really uncommon at the time
+## Quotes & Trivia
+* "The widely known ability to select [0] for the "Free Flight, No Enemy Confrontation", which places your jet on the ground without a runway was originally intended to be another starting location (at Edwards Air Force Base) but I didn?t have enough time to finish it. Leaving the ability to take off from there in the game was, I believe, not intentional but... no harm done." - Bob Dinnerman.
+* During the last mission you could land on the enemy carrier/sub to re-arm and re-fuel, take off and continue your mission.
+* As long as your gear was down and your vertical speed was low enough - your landing was deemed successful, even if your orientation was upside down - the lack of the check of your orientation in the code continued later into later Bob Dinnerman's games in the series - up to Jet Fighter IV released in 2000.
+* The game featured external views of the aircraft (10 angles) as well as tower view, really uncommon at the time.
 * In 1988, PC players got a port of this game in form of Jet Fighter: The Adventure - it added F-14 Tomcat, ground munitions in form of dumb bombs (no CCIP HUD delivery mode though) and the map was extended south to include Los Angeles with 2 additional airfports. The amount of missions was also radically increased to 40. The series continued, Bob Dinnerman helmed four releases, from fifth and onwards the game was developed by different studio.
 
 ## Links

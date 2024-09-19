@@ -21,7 +21,7 @@
 | 1987 | Harrier Combat Simulator | |||
 | 1987 | Jet: Version 2.0 | |||
 | 1987 | Falcon | |||
-| 1988 | F/A-18 Interceptor | |damson||
+| 1988 | F/A-18 Interceptor | |damson|draft|
 | 1988 | F-19 Stealth Fighter | |SpaceGameJunkie||
 | 1988 | JetFighter: The Adventure | |||
 | 1988 | ATF: Advanced Tactical Fighter | |||

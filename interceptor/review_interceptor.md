@@ -1,7 +1,7 @@
 # F/A-18 Interceptor
 ## Review
 
-F/A-18 Interceptor was an Amiga exclusive, released in 1988 by Electronic Arts and developed by Intellisoft. The premise was simple - you fly an F/A-18 Hornet or F-16 Falcon while defending the US west coast from an unknown invader.
+F/A-18 Interceptor was an Amiga exclusive, released in 1988 by Electronic Arts and developed by Intellisoft. The premise was simple - you fly an F/A-18 Hornet or F-16 Falcon while defending the US west coast from Soviet Union.
 
 The game came on one 3.5" floppy disk and featured a true 3d environment which on stock Amiga 500 ran decently fast for the time. The game modelled the San Francisco Bay Area with many points of interest present - like Golden Gate Bridge, Alcatraz Island, several buildings in DownTown San Francisco and more. Several airports were usable - San Francisco International, Oakland, Moffett as well as USS Enterprise off the coast. There were several game modes present - you could do a simple Free Flight sightseeing the scenery, take part in the training - learn basic fighter maneuvers from an AI controlled F-16 or take part in combat missions. Though for the last option first you had to pass your carrier quals - you had to prove that you could safely land on the carrier.
 
@@ -15,3 +15,7 @@ A lot of time was spent in the sound department. While the base effects were cre
 * During the last mission you could land on the enemy carrier/sub to re-arm and re-fuel, take off and continue your mission
 * As long as your gear was down and your vertical speed was low enough - your landing was deemed successful, even if your orientation was upside down - the lack of the check of your orientation in the code continued later into later Bob Dinnerman's games in the series - up to Jet Fighter IV released in 2000
 * The game featured external views of the aircraft (10 angles) as well as tower view, really uncommon at the time
+* In 1988, PC players got a port of this game in form of Jet Fighter: The Adventure - it added F-14 Tomcat, ground munitions in form of dumb bombs (no CCIP HUD delivery mode though) and the map was extended south to include Los Angeles with 2 additional airfports. The amount of missions was also radically increased to 40. The series continued, Bob Dinnerman helmed four releases, from fifth and onwards the game was developed by different studio.
+
+## Links
+* Interview with Bob Dinnerman: https://steiny.typepad.com/premise/2004/01/interview_with_.html

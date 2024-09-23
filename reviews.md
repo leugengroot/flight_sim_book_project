@@ -36,6 +36,8 @@
 | 1989 | Their Finest Hour: The Battle of Britain | |||
 | 1989 | Strike Aces | |||
 | 1990 | F-14 Tomcat (Activision) | |||
+| 1990 | Stormovik: SU-25 Soviet Attack Fighter | |||
+| 1990 | LHX: Attack Chopper | |||
 | 1990 | Flight of the Intruder | |||
 | 1990 | Red Baron | |||
 | 1990 | JetFighter II: Advanced Tactical Fighter | |||

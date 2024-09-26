@@ -11,7 +11,6 @@ Also featured were electronic countermeasures, chaffs and flares to evade enemy 
 
 When F-15 Strike Eagle was released in 1985, it represented a significant leap forward in graphical quality. Some of these improvements saw their introduction in MicrProse civilian flightsim "Solo Flight". Gone were the days of simple horizon line-only landscape graphics with one sprite for the enemy.
 
-Cockpit View: 
 The game featured a detailed cockpit view with various instruments and a heads-up display (HUD). This was a step up from the more abstract representations in earlier games.
 
 While still relatively simple by today’s standards, the terrain in F-15 Strike Eagle was more detailed and varied. Players could distinguish between different types of terrain, such as deserts and oceans. Enemy aircraft were no longer represented with sprites but with vector graphics. However, ground targets were merely symbolized as a large triangle on the ground.

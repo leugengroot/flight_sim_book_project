@@ -39,6 +39,7 @@
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | |||
 | 1990 | LHX: Attack Chopper | |||
 | 1990 | Flight of the Intruder | |||
+| 1990 | Blue Max: Aces of the Great War | |||
 | 1990 | Red Baron | |||
 | 1990 | JetFighter II: Advanced Tactical Fighter | |||
 | 1990 | Knights of the Sky | |||

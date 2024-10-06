@@ -49,6 +49,7 @@
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | |||
 | 1991 | Gunship 2000 | Philippine Islands & Antarctica Scenario Disk with mission builder | SpaceGameJunkie||
 | 1991 | Megafortress | |||
+| 1991 | Hellcats Over the Pacific | |||
 | 1991 | F-117 Nighthawk 2.0 |  |SpaceGameJunkie||
 | 1991 | Secret Weapons of the Luftwaffe | |||
 | 1991 | Chuck Yeagers Air Combat | |||

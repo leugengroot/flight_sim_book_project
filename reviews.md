@@ -9,7 +9,7 @@
 | 1985 | Tomahawk | |leugengroot||
 | 1985 | The Dam Busters | |||
 | 1985 | ACE: Air Combat Emulator | |||
-| 1985 | Jump Jet (Anco) | |||
+| 1985 | Jump Jet / Harrier Mission (Anco) | |||
 | 1985 | Strike Force Harrier | |||
 | 1985 | Spitfire 40 | |||
 | 1986 | Gunship | |leugengroot|draft|

@@ -14,10 +14,11 @@ What sounds like an extensive simulation of the air war in the Pacific turns out
 Essentially, the missions differ only in that some take place at night (moon) or during the day (sun). Additionally, the behaviour of enemy aircraft changes depending on whether you’re fighting a transport plane or a Zero fighter. 
 Graphic wise, there are no differences in the depiction of the enemy aircraft.
 
-The cockpit displays basic information such as altitude, speed, direction, remaining gun ammunition, and thrust settings. The view from the cockpit shows only a horizon line, with the sky above and water below. 
-The actual flight model is very basic but not too bad, considering we are dealing with 8-bit systems from 1982. The combination of thrust and joystick input provides a surprisingly good flight experience. Even features like stall were considered.
+The cockpit displays basic information such as altitude, speed, heading, remaining gun ammunition, and throttle settings. There is even a rearview mirror in which you can spot enemy aircraft approaching from behind. The simulated world actually consists of only a line symbolizing the horizon. The sky is depicted in blue, and the ground in green.
 
-Initially released for the 8-bit systems of Atari in 1982, a version for the Commodore 64 followed in 1983, and the following year a DOS version for IBM-compatible PCs.
+The actual flight model is very basic but not too bad, considering we are dealing with 8-bit systems from 1982. The combination of thrust and joystick input provides a surprisingly good flight experience. Even features like stall were considered. All basic combat maneuvers such as the Barrel Roll, Split-S, or Immelmann can be used to engage opponents.
+
+Initially released for the 8-bit systems of Atari in 1982, a version for the Commodore 64 followed in 1983. In 1984 a DOS version for IBM-compatible PCs followed as well.
 In an updated version for the Atari and Commodore from 1984, the graphics were improved.
 
 The goal of the game is to win each of the 14 missions (in various difficulty levels) and shoot down at least five enemy planes to achieve “Ace” status. If a mission doesn’t go well, you can bail out with a parachute or try to ditch your plane in the water. Either you’ll be picked up by a friendly submarine or, in the worst case, end up as a prisoner of war.
@@ -27,5 +28,13 @@ Hellcat Ace was a commercial success and received positive reviews from both pla
 
 
 ## Quotes
- “While the graphics could be improved, the playability of the game is not harmed by this, and I recommend it to those of you with dreams of glory and the big blue yonder.”\
-- Atari Antic Magazine 
+ * “While the graphics could be improved, the playability of the game is not harmed by this, and I recommend it to those of you with dreams of glory and the big blue yonder.”\ - Atari Antic Magazine 
+ * "Hellcat Ace is a game which challenges your nerve, flying skills and knowledge of air-to-air combat tactics. You fly your World War II plane against a computer controlled airplane in one of fourteen scenarios. (HCA manual)
+
+## Scenario Examples
+* FLYING TIGER - August 13, 1940 You are flying a P40 Tomahawk fighter with Colonel Claire Chennault's American Volunteer Group (Flying Tigers), contesting the Japanese invasion of China in early WWII. Ahead of you flies a Japanese medium bomber returning from a bombing mission. Your guns are loaded and primed. Shoot him down.
+* PEARL HARBOR - December 7, 1941 You are flying a Brewster Buffalo fighter on a single patrol over the main Pacific fleet anchorage at Pearl Harbor, Hawaii. Suddenly you spot a Japanese Floatplane circling Pearl at 10,000 feet reporting vital information to the approaching attack wave. If you don't shoot him down and disrupt the attack you will be overwhelmed when it arrives.
+* GET YAMAMOTO - April 18, 1943 American Intelligence has broken the Japanese code and learned that Admiral Yamamoto has scheduled an inspection visit to the island of Ballale, just within range of the P-38 Lightning with drop tanks. You have flown over six hundred miles. Ahead you spot the Admiral's plane. You must complete your mission quickly before his Zero Escort drops do w n to intercept.
+
+## Ideas for additional pages
+* show outcome screen (Ace, victories, Death etc.)

@@ -3,13 +3,13 @@
 "Enemy Plane Hit". The target is rapidly approaching. Arming bombs, I dive toward my target ignoring the last enemy aircraft and SAM. Dropping the bombs, I pull up and see on my computer display that the target is hit. I immediately turn to line up a secondary target, WHAM! WHAM! I'm hit by the last
 SAM and an enemy SRAM from the last enemy aircraft pulling up out of the wild dive, I'm treated with a hail of cannon fire from the enemy aircraft. Too low to bail out, my mission ends as I slam into the ground!!"
 
-In such vivid and graphic detail, Hosea Battles, Jr. describes a mission over Syria in MicroProse’s latest flight simulator, "F-15 Strike Eagle" in Computer Gaming World's December issue of 1984).
+In such vivid and graphic detail, Hosea Battles, Jr. describes a mission over Syria in MicroProse’s latest flight simulator, "F-15 Strike Eagle" in Computer Gaming World's December issue of 1984. The few sentences capture what F-15 is all about in a magnificent way.
 
 The game offered a variety of missions set in different geopolitical hotspots, such as Libya, the Persian Gulf, and Vietnam. 
 For the first time in a MicroProse flightsim, players could engage in both air-to-air and air-to-ground combat, using a variety of weapons including short and medium ranged air-to-air missiles, bombs and the F-15’s onboard cannon. 
 Also featured were electronic countermeasures, chaffs and flares to evade enemy missiles, adding a layer of strategy to the fast-paced action.
 
-When F-15 Strike Eagle was released in 1985, it represented a significant leap forward in graphical quality. Some of these improvements saw their introduction in MicrProse civilian flightsim "Solo Flight". Gone were the days of simple horizon line-only landscape graphics with one sprite for the enemy.
+When F-15 Strike Eagle was released in 1985, it represented a significant leap forward in graphical quality. Some of these improvements first saw their introduction in MicroProse civilian flightsim "Solo Flight". Gone were the days of simple horizon line-only landscape graphics with one sprite for the enemy.
 
 The game featured a detailed cockpit view with various instruments and a heads-up display (HUD). This was a step up from the more abstract representations in earlier games.
 

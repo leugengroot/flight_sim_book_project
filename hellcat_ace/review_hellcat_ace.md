@@ -37,4 +37,5 @@ Hellcat Ace was a commercial success and received positive reviews from both pla
 * GET YAMAMOTO - April 18, 1943 American Intelligence has broken the Japanese code and learned that Admiral Yamamoto has scheduled an inspection visit to the island of Ballale, just within range of the P-38 Lightning with drop tanks. You have flown over six hundred miles. Ahead you spot the Admiral's plane. You must complete your mission quickly before his Zero Escort drops do w n to intercept.
 
 ## Ideas for additional pages
-* show outcome screen (Ace, victories, Death etc.)
+* show outcome screen (Ace, victories, Death etc.
+* Bild aus dem Handbuch?)

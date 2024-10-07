@@ -9,7 +9,7 @@
 | 1985 | Tomahawk | |leugengroot||
 | 1985 | The Dam Busters | |||
 | 1985 | ACE: Air Combat Emulator | |||
-| 1985 | Jump Jet (Anco) | |||
+| 1985 | Jump Jet / Harrier Mission (Anco) | |||
 | 1985 | Strike Force Harrier | |||
 | 1985 | Spitfire 40 | |||
 | 1986 | Gunship | |leugengroot|draft|
@@ -22,6 +22,7 @@
 | 1987 | Jet: Version 2.0 | |||
 | 1987 | Falcon | |||
 | 1988 | F/A-18 Interceptor | |damson|draft|
+| 1988 | Thud Ridge: American Aces in 'Nam | |||
 | 1988 | F-19 Stealth Fighter | |SpaceGameJunkie||
 | 1988 | JetFighter: The Adventure | |||
 | 1988 | ATF: Advanced Tactical Fighter | |||
@@ -39,6 +40,7 @@
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | |||
 | 1990 | LHX: Attack Chopper | |||
 | 1990 | Flight of the Intruder | |||
+| 1990 | Blue Max: Aces of the Great War | |||
 | 1990 | Red Baron | |||
 | 1990 | JetFighter II: Advanced Tactical Fighter | |||
 | 1990 | Knights of the Sky | |||
@@ -47,6 +49,7 @@
 | 1990 | Stormovik: SU-25 Soviet Attack Fighter | |||
 | 1991 | Gunship 2000 | Philippine Islands & Antarctica Scenario Disk with mission builder | SpaceGameJunkie||
 | 1991 | Megafortress | |||
+| 1991 | Hellcats Over the Pacific | |||
 | 1991 | F-117 Nighthawk 2.0 |  |SpaceGameJunkie||
 | 1991 | Secret Weapons of the Luftwaffe | |||
 | 1991 | Chuck Yeagers Air Combat | |||

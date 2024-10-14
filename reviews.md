@@ -41,7 +41,7 @@
 | 1990 | LHX: Attack Chopper | |||
 | 1990 | Flight of the Intruder | |||
 | 1990 | Blue Max: Aces of the Great War | |||
-| 1990 | Red Baron | |||
+| 1990 | Red Baron | |leugengroot||
 | 1990 | JetFighter II: Advanced Tactical Fighter | |||
 | 1990 | Knights of the Sky | |||
 | 1990 | Falcon 3.0 + Addons | Operation: Fighting Tiger / Hornet Naval Strike Fighter / MiG-29 | leugengroot|Draft|
@@ -53,13 +53,13 @@
 | 1991 | F-117 Nighthawk 2.0 |  |SpaceGameJunkie||
 | 1991 | Secret Weapons of the Luftwaffe | |||
 | 1991 | Chuck Yeagers Air Combat | |||
-| 1992 | Aces of the Pacific | |||
+| 1992 | Aces of the Pacific | |leugengroot||
 | 1992 | F-15 Strike Eagle III | |||
 | 1992 | Harrier Jump Jet | |||
 | 1992 | B-17 Flying Fortress | |||
 | 1992 | AV-8B Harrier Assault | |||
 | 1993 | T.F.X. | |||
-| 1993 | Aces over Europe | |||
+| 1993 | Aces over Europe | |leugengroot||
 | 1993 | Air Duel: 80 Years of Dogfighting | |||
 | 1993 | Tornado | Desert Storm |trevorr610|draft|
 | 1993 | Strike Commander | |||

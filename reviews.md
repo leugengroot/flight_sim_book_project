@@ -90,7 +90,7 @@
 | 1997 | F/A-18 Hornet 3.0 | |||
 | 1997 | F/A-18 Hornet Korea | |||
 | 1997 | Joint Strike Fighter | |||
-| 1997 | F22 Air Dominance Fighter | |||
+| 1997 | F22 Air Dominance Fighter | Red Sea Operations |Rapier||
 | 1997 | Commanche 3 | |||
 | 1997 | Jane's Combat Simulations: Longbow 2 | |||
 | 1997 | Janes Fighter Anthology | |||
@@ -104,6 +104,7 @@
 | 1998 | Jane's Combat Simulations: WWII Fighters | |||
 | 1998 | Enemy Engaged: Apache/Havoc | |||
 | 1998 | European Air War | |||
+| 1998 | F22 Total Air War | |Rapier||
 | 1998 | Falcon 4.0 | |||
 | 1998 | F-16 Aggressor | |||
 | 1998 | F-16 Multirole Fighter | |||

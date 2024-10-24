@@ -85,7 +85,7 @@
 | 1996 | A-10 Cuba! | |trevorr610||
 | 1996 | F-22 Lighting II | |||
 | 1996 | Jane’s Advanced Tactical Fighters |NATO Fighters | ||
-| 1996 | Jane’s USNF’97 | |damson||
+| 1996 | Jane’s USNF’97 | |damson|draft|
 | 1996 | Top Gun: Fire at Will! | |damson||
 | 1997 | F/A-18 Hornet 3.0 | |||
 | 1997 | F/A-18 Hornet Korea | |||

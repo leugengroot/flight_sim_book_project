@@ -83,6 +83,7 @@
 | 1996 | Jane's Combat Simulations: AH-64D Longbow |Flashpoint Korea |||
 | 1996 | Hind | |||
 | 1996 | A-10 Cuba! | |trevorr610||
+| 1996 | Silent Thunder: A-10 Tank Killer II | |||
 | 1996 | F-22 Lighting II | |||
 | 1996 | Jane’s Advanced Tactical Fighters |NATO Fighters | ||
 | 1996 | Jane’s USNF’97 | |damson|draft|
